@@ -1,4 +1,4 @@
-🏴‍☠️ Campo Minado – Projeto Acadêmico em Python/Tkinter
+# 🏴‍☠️ Campo Minado – Projeto Acadêmico em Python/Tkinter
 
 Um remake (em **dark mode**) do clássico _Minesweeper_ feito inteiramente em **Python 3** com **Tkinter**.  
 O objetivo do jogo é revelar todas as células que **não** contêm bombas ou marcar corretamente todas as bombas antes de o tempo de cada jogada acabar.
